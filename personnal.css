@@ -1,0 +1,75 @@
+:root {
+    --dark-color : #2b2c33;
+    --light-color: #747474;
+    --green-color: #8a9ba0;
+    --white-color: #f4f5f5;
+    --keyframes-content1: url(https://via.placeholder.com/1000x400);
+    --keyframes-content2: url(https://via.placeholder.com/900x400);
+    --keyframes-content3: url(https://via.placeholder.com/1000x400);
+    --keyframes-content4: url(https://via.placeholder.com/900x400);
+    --keyframes-content5: url(https://via.placeholder.com/850x400);
+}
+
+/*   GLOBAL   */
+
+body {
+    --body-background-color: var(--dark-color);
+    color:var(--white-color);
+    --body-font-family: 'Dancing Script', cursive;
+}
+
+h1,
+h2 {
+    --title-font-family: 'Dancing Script', cursive;
+}
+
+section {
+    padding-top: 9rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+/*   NAVBAR   */
+li {
+    margin: 2rem;
+}
+
+.navbar {
+    --navbar-background-color: var(--light-color);
+    --navbar-link-hover-color: var(--dark-color);
+}
+
+/*   SLIDER   */
+.slider {
+    --slider-width: 100%;
+    height: 250px;
+}
+
+/*   PRESENTATION   */
+#presentation {
+    margin-top: 35rem;
+    text-align: justify;
+}
+
+.text a {
+    --btn-background-color: var(--light-color);
+}
+
+.menu {
+    --menu-label-hover-background-color: var(--green-color);
+    --menu-fa-color: var(--light-color);
+    --menu-checked-label-background-color: var(--light-color);
+}
+
+.text {
+    background-color: var(--green-color);
+    border-radius: 3rem;
+    padding: 2rem;
+}
+
+/*   FOOTER   */
+footer:first-child {
+    height: 0;
+}
