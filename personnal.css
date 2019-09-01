@@ -68,8 +68,3 @@ li {
     border-radius: 3rem;
     padding: 2rem;
 }
-
-/*   FOOTER   */
-footer:first-child {
-    height: 0;
-}
