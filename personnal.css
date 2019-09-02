@@ -3,11 +3,11 @@
     --light-color: #747474;
     --green-color: #8a9ba0;
     --white-color: #f4f5f5;
-    --keyframes-content1: url(https://via.placeholder.com/1000x400);
-    --keyframes-content2: url(https://via.placeholder.com/900x400);
-    --keyframes-content3: url(https://via.placeholder.com/1000x400);
-    --keyframes-content4: url(https://via.placeholder.com/900x400);
-    --keyframes-content5: url(https://via.placeholder.com/850x400);
+    --keyframes-content1: url(https://via.placeholder.com/1000x400?text=example1);
+    --keyframes-content2: url(https://via.placeholder.com/900x400?text=example2);
+    --keyframes-content3: url(https://via.placeholder.com/1000x400?text=example3);
+    --keyframes-content4: url(https://via.placeholder.com/900x400?text=example4);
+    --keyframes-content5: url(https://via.placeholder.com/850x400?text=example5);
 }
 
 /*   GLOBAL   */
