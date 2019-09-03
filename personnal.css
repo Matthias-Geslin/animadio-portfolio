@@ -33,7 +33,11 @@ h2 {
 
 /*   NAVBAR   */
 li {
-    margin: 2rem;
+    margin: 1.5rem;
+}
+
+ul span {
+    font-size: 3rem;
 }
 
 .navbar {
