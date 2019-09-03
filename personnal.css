@@ -4,10 +4,10 @@
     --green-color: #8a9ba0;
     --white-color: #f4f5f5;
     --keyframes-content1: url(https://via.placeholder.com/1000x400?text=example1);
-    --keyframes-content2: url(https://via.placeholder.com/900x400?text=example2);
+    --keyframes-content2: url(https://via.placeholder.com/1000x400?text=example2);
     --keyframes-content3: url(https://via.placeholder.com/1000x400?text=example3);
-    --keyframes-content4: url(https://via.placeholder.com/900x400?text=example4);
-    --keyframes-content5: url(https://via.placeholder.com/850x400?text=example5);
+    --keyframes-content4: url(https://via.placeholder.com/1000x400?text=example4);
+    --keyframes-content5: url(https://via.placeholder.com/1000x400?text=example5);
 }
 
 /*   GLOBAL   */
@@ -33,7 +33,11 @@ h2 {
 
 /*   NAVBAR   */
 li {
-    margin: 2rem;
+    margin: 1.5rem;
+}
+
+ul span {
+    font-size: 3rem;
 }
 
 .navbar {
@@ -48,23 +52,24 @@ li {
 }
 
 /*   PRESENTATION   */
-#presentation {
-    margin-top: 35rem;
+section:nth-of-type(2) {
+    margin-top: 15rem;
     text-align: justify;
-}
-
-.text a {
-    --btn-background-color: var(--light-color);
-}
-
-.menu {
-    --menu-label-hover-background-color: var(--green-color);
-    --menu-fa-color: var(--light-color);
-    --menu-checked-label-background-color: var(--light-color);
 }
 
 .text {
     background-color: var(--green-color);
     border-radius: 3rem;
     padding: 2rem;
+}
+
+.text a {
+    --btn-background-color: var(--light-color);
+}
+
+/*   PORTFOLIO   */
+.menu {
+    --menu-label-hover-background-color: var(--green-color);
+    --menu-fa-color: var(--light-color);
+    --menu-checked-label-background-color: var(--light-color);
 }
