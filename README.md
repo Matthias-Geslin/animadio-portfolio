@@ -14,11 +14,11 @@ The template only uses elements, animations and css variables within Animadio, n
  #Elements used
  
 Animadio elements used in this template:
-+  Navbar
-+  Slider
-+  Container
-+  button
-+  Menu
-+  Gallery
-+  Footer
+ +  Navbar
+ +  Slider
+ +  Container
+ +  button
+ +  Menu
+ +  Gallery
+ +  Footer
    
