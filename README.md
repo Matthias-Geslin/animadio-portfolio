@@ -8,17 +8,17 @@ Animadio.
 The template only uses elements, animations and css variables within Animadio, no javascript,
  no additional css rules. Even responsiveness is fully handle by the framework natively,
  without adding personal @media rules.
-  
+ 
  #Elements used
  
  Animadio elements used in this template:
- + Navbar
- + Slider
- + Container
- + button
- + Menu
- + Gallery
- + Footer
+ +  Navbar
+ +  Slider
+ +  Container
+ +  button
+ +  Menu
+ +  Gallery
+ +  Footer
  
  
  
