@@ -14,7 +14,7 @@
 
 body {
     --body-background-color: var(--dark-color);
-    color:var(--white-color);
+    --body-color:var(--white-color);
     --body-font-family: 'Dancing Script', cursive;
 }
 
@@ -41,7 +41,7 @@ ul span {
 
 /*   PRESENTATION   */
 .text {
-    background-color: var(--green-color);
+    --container-background-color: var(--green-color);
     margin-top: 20rem;
 }
 
