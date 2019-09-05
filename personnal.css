@@ -64,3 +64,8 @@ ul span {
     --menu-fa-color: var(--light-color);
     --menu-checked-label-background-color: var(--light-color);
 }
+
+/*   FOOTER   */
+.foot {
+    --foot-last-child-background-color: var(--light-color);
+}
