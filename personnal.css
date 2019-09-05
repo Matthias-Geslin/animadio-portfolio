@@ -27,10 +27,6 @@ section {
     padding-top: 9rem;
 }
 
-h2 {
-    text-align: center;
-}
-
 /*   NAVBAR   */
 li {
     margin: 1.5rem;
@@ -54,12 +50,10 @@ ul span {
 /*   PRESENTATION   */
 section:nth-of-type(2) {
     margin-top: 20rem;
-    text-align: justify;
 }
 
 .text {
     background-color: var(--green-color);
-    border-radius: 3rem;
     padding: 2rem;
 }
 
