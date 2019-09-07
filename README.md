@@ -17,6 +17,7 @@ The template only uses elements, animations and css variables within Animadio, n
 ## Made with Animadio CSS Framework
 [![GitHub Stars](https://img.shields.io/github/stars/animadio/animadio.svg?label=GitHub+:+animadio+|+Stars)](https://github.com/animadio/animadio)
 [![Twitter Follow](https://badgen.net/twitter/follow/animadio)](https://twitter.com/animadio)
+[![WebSite Status](https://img.shields.io/website-up-down-green-red/https/animadio.org.svg?label=https://animadio.org)](https://animadio.org)
 [![WebSite Status](https://img.shields.io/website-up-down-green-red/https/doc.animadio.org.svg?label=https://doc.animadio.org)](https://doc.animadio.org)
 
 ### Elements used
