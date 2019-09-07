@@ -19,7 +19,6 @@ The template only uses elements, animations and css variables within Animadio, n
 [![Twitter Follow](https://badgen.net/twitter/follow/animadio)](https://twitter.com/animadio)
 [![WebSite Status](https://img.shields.io/website-up-down-green-red/https/doc.animadio.org.svg?label=https://doc.animadio.org)](https://doc.animadio.org)
 
-
 ### Elements used
 Animadio elements used in this template:
 +  Navbar
