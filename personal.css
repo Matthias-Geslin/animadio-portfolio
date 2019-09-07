@@ -22,13 +22,10 @@ h2 {
     --title-font-family: 'Dancing Script', cursive;
 }
 
-ul span {
-    font-size: 3rem;
-}
-
 .navbar {
     --navbar-background-color: var(--light-color);
     --navbar-link-hover-color: var(--dark-color);
+    --navbar-first-list-span-font-size: 3rem;
 }
 
 /*   PRESENTATION   */
