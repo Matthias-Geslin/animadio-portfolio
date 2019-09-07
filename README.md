@@ -42,7 +42,7 @@ NPM : `npm i animadio-portfolio`
 Valentin Antoin
 
 [![WebSite Status](https://img.shields.io/website-up-down-green-red/https/valentin-antoin.fr.svg?label=https://valentin-antoin.fr)](https://valentin-antoin.fr)
-[![GitHub Followers](https://img.shields.io/github/followers/valentinantoin.svg?label=GitHub+:+valentinantoin+|+Followers)](https://github.com/sangodraws)
+[![GitHub Followers](https://img.shields.io/github/followers/valentinantoin.svg?label=GitHub+:+valentinantoin+|+Followers)](https://github.com/valentinantoin)
 [![Twitter Follow](https://badgen.net/twitter/follow/Valentin_Antoin)](https://twitter.com/Valentin_Antoin)
 
 ---
