@@ -21,7 +21,7 @@
   "homepage": "https://portfolio.animadio.org",
   "repository": "github:animadio/animadio-portfolio",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.6.3",
+    "@fortawesome/fontawesome-free": "^5.10.2",
     "animadio": "^1.1.0"
   },
   "bugs": "https://github.com/animadio/animadio-portfolio/issues",
