@@ -13,7 +13,6 @@ The template only uses elements, animations and css variables within Animadio, n
  [![NPM Version](https://img.shields.io/npm/v/animadio-portfolio.svg?label=NPM)](https://www.npmjs.com/package/animadio-portfolio)
 
  ## Elements used
- 
 Animadio elements used in this template:
 +  Navbar
 +  Slider
@@ -28,4 +27,3 @@ Animadio elements used in this template:
 [![NPM Version](https://img.shields.io/npm/v/animadio-portfolio.svg?label=NPM)](https://www.npmjs.com/package/animadio-portfolio)
 
 NPM : `npm i animadio-portfolio`
-
