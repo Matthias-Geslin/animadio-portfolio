@@ -1,0 +1,40 @@
+{
+  "name": "animadio-portfolio",
+  "version": "0.1.0",
+  "description": "Animadio Portfolio",
+  "keywords": [
+    "css",
+    "template",
+    "website",
+    "portfolio",
+    "flexbox",
+    "click control",
+    "keyframes",
+    "animation",
+    "variables",
+    "customizability",
+    "reusability",
+    "pure css"
+  ],
+  "license": "MIT",
+  "main": "index.html",
+  "homepage": "https://portfolio.animadio.org",
+  "repository": "github:animadio/animadio-portfolio",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3",
+    "animadio": "^1.1.0"
+  },
+  "bugs": "https://github.com/animadio/animadio-portfolio/issues",
+  "author": {
+    "name": "Valentin Antoin",
+    "email": "valentin.antoin@gmail.com",
+    "url": "https://valentin-antoin.fr"
+  },
+  "contributors": [
+    {
+      "name": "Philippe Beck",
+      "email": "philippe@philippebeck.net",
+      "url": "https://philippebeck.net"
+    }
+  ]
+}
