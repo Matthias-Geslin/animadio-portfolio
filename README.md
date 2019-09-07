@@ -20,7 +20,7 @@ The template only uses elements, animations and css variables within Animadio, n
 [![WebSite Status](https://img.shields.io/website-up-down-green-red/https/doc.animadio.org.svg?label=https://doc.animadio.org)](https://doc.animadio.org)
 
 
-#### Elements used
+### Elements used
 Animadio elements used in this template:
 +  Navbar
 +  Slider
