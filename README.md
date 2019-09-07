@@ -14,7 +14,13 @@ The template only uses elements, animations and css variables within Animadio, n
 
 ---
 
-## Elements used
+## Made with Animadio CSS Framework
+[![GitHub Stars](https://img.shields.io/github/stars/animadio/animadio.svg?label=GitHub+:+animadio+|+Stars)](https://github.com/animadio/animadio)
+[![Twitter Follow](https://badgen.net/twitter/follow/animadio)](https://twitter.com/animadio)
+[![WebSite Status](https://img.shields.io/website-up-down-green-red/https/doc.animadio.org.svg?label=https://doc.animadio.org)](https://doc.animadio.org)
+
+
+#### Elements used
 Animadio elements used in this template:
 +  Navbar
 +  Slider
@@ -39,3 +45,14 @@ Valentin Antoin
 [![WebSite Status](https://img.shields.io/website-up-down-green-red/https/valentin-antoin.fr.svg?label=https://valentin-antoin.fr)](https://valentin-antoin.fr)
 [![GitHub Followers](https://img.shields.io/github/followers/valentinantoin.svg?label=GitHub+:+valentinantoin+|+Followers)](https://github.com/sangodraws)
 [![Twitter Follow](https://badgen.net/twitter/follow/Valentin_Antoin)](https://twitter.com/Valentin_Antoin)
+
+---
+
+## Contributors
+Philippe Beck
+
+[![WebSite Status](https://img.shields.io/website-up-down-green-red/https/philippebeck.net.svg?label=https://philippebeck.net)](https://philippebeck.net)
+[![GitHub Followers](https://img.shields.io/github/followers/philippebeck.svg?label=GitHub+:+philippebeck+|+Followers)](https://github.com/philippebeck)
+[![Twitter Follow](https://badgen.net/twitter/follow/philippepjbeck)](https://twitter.com/philippepjbeck)
+
+---
